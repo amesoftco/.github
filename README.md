@@ -1,1 +1,3 @@
-# .github
+# Amesoft CO
+
+https://amesoft.co
